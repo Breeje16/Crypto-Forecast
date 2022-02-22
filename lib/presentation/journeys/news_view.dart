@@ -1,0 +1,48 @@
+import 'dart:async';
+
+import 'package:cryptoforecast/presentation/themes/colorz.dart';
+import 'package:flutter/material.dart';
+import 'package:webview_flutter/webview_flutter.dart';
+
+// ignore: must_be_immutable
+class NewsView extends StatefulWidget {
+  String url;
+  NewsView({Key? key, required this.url}) : super(key: key);
+  @override
+  _NewsViewState createState() => _NewsViewState();
+}
+
+class _NewsViewState extends State<NewsView> {
+  late String finalUrl;
+  final Completer<WebViewController> controller =
+      Completer<WebViewController>();
+  @override
+  void initState() {
+    if (widget.url.toString().contains("http://")) {
+      finalUrl = widget.url.toString().replaceAll("http://", "https://");
+    } else {
+      finalUrl = widget.url;
+    }
+    super.initState();
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      appBar: AppBar(
+        title: const Text("CF NEWS"),
+        backgroundColor: Colorz.currenciesPageBackground,
+        centerTitle: true,
+      ),
+      body: WebView(
+        initialUrl: finalUrl,
+        javascriptMode: JavascriptMode.unrestricted,
+        onWebViewCreated: (WebViewController webViewController) {
+          setState(() {
+            controller.complete(webViewController);
+          });
+        },
+      ),
+    );
+  }
+}
