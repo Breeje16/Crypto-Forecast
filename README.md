@@ -41,6 +41,6 @@ One-stop for all information related to Cryptocurrency, including current Market
 
 [![CF7.jpg](https://i.postimg.cc/sxg0V3Dx/CF7.jpg)](https://postimg.cc/Fdwxp5SX)
 
-# Deep Learning Model Result: Original Vs Prediction Given by our Model
+# Deep Learning Model Result: Original Vs Prediction Given by Model
 
 [![CF8.jpg](https://i.postimg.cc/J49KFNJG/CF8.jpg)](https://postimg.cc/bs9QD2mh)
