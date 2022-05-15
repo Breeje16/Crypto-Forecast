@@ -27,16 +27,22 @@ One-stop for all information related to Cryptocurrency, including current Market
 
 ## Screenshots
 
+#### Explore Screen 
 [![CF1.jpg](https://i.postimg.cc/rs4RRrpP/CF1.jpg)](https://postimg.cc/m1bg0hCY)
 
+#### Coin Detail Screen 
 [![CF5.jpg](https://i.postimg.cc/tg6KfRYH/CF5.jpg)](https://postimg.cc/679b4XrH)
 
+#### News Screen 
 [![CF2.jpg](https://i.postimg.cc/tCy4NfvT/CF2.jpg)](https://postimg.cc/HjZmpSgD)
 
+#### News Search Result Screen
 [![CF3.jpg](https://i.postimg.cc/x8PYZfpd/CF3.jpg)](https://postimg.cc/LghrYppd)
 
+#### In App Web View Screen
 [![CF4.jpg](https://i.postimg.cc/cCdGfq1G/CF4.jpg)](https://postimg.cc/PpV7kR8S)
 
+#### Trends Screen
 [![CF6.jpg](https://i.postimg.cc/Wbfx1qZv/CF6.jpg)](https://postimg.cc/Czkcv1JP)
 
 [![CF7.jpg](https://i.postimg.cc/sxg0V3Dx/CF7.jpg)](https://postimg.cc/Fdwxp5SX)
