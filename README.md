@@ -1,16 +1,12 @@
-# cryptoforecast
+# Crypto Forecast
 
-A new Flutter project.
+Difficulties in investing in cryptocurrency?
 
-## Getting Started
+Currently as there are many budding and booming cryptocurrencies many times investors get appalled by the trends and invest haphazardly. 
 
-This project is a starting point for a Flutter application.
+Why Crypto Forecast?
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Crypto Forecast is an App Developed using Flutter Framework  where Users can get all the Live Information of Crypto Currencies like Bitcoin, Ethereum, Dogecoin etc. 
+User's will get to see Future Price Predictions of top cryptocurrencies so that they can make their investments keeping in mind the current state of the market and not invest their Hard earn money due to Fear of Missing Out.
+As the Market is quite Volatile in cryptocurrency our Portal will help retail investors make better Decisions regarding their Investment.
+We provide them with Real Time Charts, Real Time Prices, Real Time News and Real Time Analytics using Deep Learning Models like Future Forecasting, Fear Index and Sentiment Analysis of Current market based on Social Media Posts
